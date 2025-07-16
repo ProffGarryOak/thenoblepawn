@@ -84,7 +84,7 @@ export default async function ShopPage() {
           {items.length === 0 ? (
             <div className="text-center py-12">
               <h3 className="text-xl font-semibold text-gray-700 mb-2">No items found</h3>
-              <p className="text-gray-500 mb-4">We couldn't find any items matching your criteria</p>
+              <p className="text-gray-500 mb-4">We couldn&apos;t find any items matching your criteria</p>
               <Link href="/sell" className="inline-block bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-2 px-6 rounded">
                 Sell Your First Item
               </Link>
