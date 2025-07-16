@@ -190,7 +190,7 @@ const HomePage = () => {
                   </div>
                 </div>
                 <p className="font-playfair italic text-gray-700">
-                  "Sold my grandfather's pocket watch through Royal Pawn and got 30% more than local dealers offered. The authentication process gave buyers confidence and the platform was easy to use."
+                  &quot;Sold my grandfather&apos;s pocket watch through Royal Pawn and got 30% more than local dealers offered. The authentication process gave buyers confidence and the platform was easy to use.&quot;
                 </p>
               </div>
               
@@ -211,7 +211,7 @@ const HomePage = () => {
                   </div>
                 </div>
                 <p className="font-playfair italic text-gray-700">
-                  "As a collector, I appreciate the rigorous verification process. I've purchased several items knowing they're genuine. The royal treatment makes buying high-value items online stress-free."
+                  &quot;As a collector, I appreciate the rigorous verification process. I&apos;ve purchased several items knowing they&apos;re genuine. The royal treatment makes buying high-value items online stress-free.&quot;
                 </p>
               </div>
             </div>
