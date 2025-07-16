@@ -96,7 +96,7 @@ const HomePage = () => {
                 </div>
                 <h3 className="text-xl font-cinzel text-[#d4af37] font-semibold text-center mb-3">Verification & Pricing</h3>
                 <p className="text-gray-700 font-playfair text-center">
-                  Pay a small fee for our authentication service. Once verified, we'll help you set the perfect price.
+                  Pay a small fee for our authentication service. Once verified, we&apos;ll help you set the perfect price.
                 </p>
               </div>
               
